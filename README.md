@@ -1,4 +1,4 @@
-#project UAS Bahasa Pemrograman
+# project UAS Bahasa Pemrograman
 
 from core.baseapp import BaseApp
 from core.search_helper import SearchHelper
